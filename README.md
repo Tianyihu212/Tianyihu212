@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there, I am Tianyi Hu (TU Berlin-as) 👋 
+> (Hier ist Tianyi Hu, und studiere ich Automotive Systems im Tu Berlin.👋)
 
-<!--
-**Tianyihu212/Tianyihu212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here is my **Machine Learning** and **CBIR** projects:  
 
-Here are some ideas to get you started:
+* 🖥️ [Content-Based Landmark Retrieval Combining Global and Local Features using Siamese Neural Networks](https://github.com/yuanbit/FinBERT-QA)
+  - (image retrieval, Deep Learning, Siamese network)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out to me about **NLP**, **Search**, **Recommender Systems**, and **Design**.
+
+- 💬 Message me on [Linkedin](https://www.linkedin.com/in/yuanb/)
+- 📝 Follow my Data Science and Design blogs on [Medium](https://yuanb.medium.com)
+- 🎨 Check out my UI designs on [Behance](https://www.behance.net/yuanb)
+
