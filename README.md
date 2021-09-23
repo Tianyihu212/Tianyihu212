@@ -10,7 +10,7 @@ Here is my **Machine Learning** and **CBIR** projects:
 
 Feel free to reach out to me about **NLP**, **Search**, **Recommender Systems**, and **Design**.
 
-- 💬 Message me on [Linkedin](https://www.linkedin.com/in/yuanb/)
+- 💬 Message me on [Linkedin](https://www.linkedin.com/in/tianyi-hu/)
 - 📝 Follow my Data Science and Design blogs on [Medium](https://yuanb.medium.com)
 - 🎨 Check out my UI designs on [Behance](https://www.behance.net/yuanb)
 
