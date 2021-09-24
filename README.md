@@ -8,7 +8,7 @@ Here is my **Machine Learning** and **Content-Based image retrieval** projects:
 * 🖥️ [Content-Based Landmark Retrieval Combining Global and Local Features using Siamese Neural Networks](https://github.com/yuanbit/FinBERT-QA)
   - (image retrieval, Deep Learning, Siamese network)
 
-Feel free to reach out to me about **NLP**, **Search**, **Recommender Systems**, and **Design**.
+Feel free to reach out to me about **CBIR**, **Motor**, **Siamese network**, and **Automotive Systems**.
 
 - 💬 Message me on [Linkedin](https://www.linkedin.com/in/tianyi-hu-167845221/)
 - 📝 Follow my Data Science and Design blogs on [Medium](https://yuanb.medium.com)
