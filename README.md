@@ -14,3 +14,6 @@ Feel free to reach out to me about **CBIR**, **Motor**, **Siamese network**, and
 - 📝 Follow my Data Science and Design blogs on [Medium](https://yuanb.medium.com)
 - 🎨 Check out my UI designs on [Behance](https://www.behance.net/yuanb)
 - 🏃 Sailing / Kayak / Scuba Diving / Windsurfing / Table Tennis / Cycling
+
+
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Tianyihu212)]()
