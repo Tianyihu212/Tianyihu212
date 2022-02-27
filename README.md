@@ -5,7 +5,7 @@
 Here is my **Machine Learning** and **Content-Based image retrieval** projects:  
 > (Hier sind meine **Machine Learning**- und **CBIR**-Projekte:)
 
-* 🖥️ [Content-Based Landmark Retrieval Combining Global and Local Features using Siamese Neural Networks](https://github.com/Tianyihu212/Materarbeit)
+* 🖥️ [Landmark Retrieval](https://github.com/Tianyihu212/Materarbeit)
   - (image retrieval, Deep Learning, Siamese network)
 
 Feel free to reach out to me about **CBIR**, **Motor**, **Siamese network**, and **Automotive Systems**.
