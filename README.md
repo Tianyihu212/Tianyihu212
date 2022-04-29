@@ -8,11 +8,15 @@ Here is my **Machine Learning** and **Content-Based image retrieval** projects:
 * 🖥️ [Landmark Retrieval](https://github.com/Tianyihu212/Materarbeit)
   - (image retrieval, Deep Learning, Siamese network)
 
+* :gb: [English learning](https://github.com/Tianyihu212/English-channel-TianyiHu-vision)
+  - (IELTS test, newpaper reading, small essay writing)
+
 Feel free to reach out to me about **CBIR**, **Motor**, **Siamese network**, and **Automotive Systems**.
 
 - 💬 Message me on [Linkedin](https://www.linkedin.com/in/tianyi-hu-167845221/)
 - 📝 Follow my Data Science and Design blogs on [Medium](https://yuanb.medium.com)
 - 🎨 Check out my UI designs on [Behance](https://www.behance.net/yuanb)
+- :email: Contact with me (hutianyi212@outlook.com or hutianyi212@gmail.com)
 - 🏃 Sailing / Kayak / Scuba Diving / Windsurfing / Table Tennis / Cycling
 
 
