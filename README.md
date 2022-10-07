@@ -1,6 +1,6 @@
 ## Hi there, I am Tianyi Hu (TU Berlin-as) 👋 
 
-> (Hier ist Tianyi Hu, und studiere ich Automotive Systems im Tu Berlin.👋)
+> (Hier ist Tianyi Hu, und studiere ich Automotive Systems im Tu Berlin.👋 And now i working on a logistics company for a projektleiter in Bremen, Germany. At the same time i making some projekts about image retrieval as well as image recoginition. I hope can share with us.)
 
 Here is my **Machine Learning** and **Content-Based image retrieval** projects:  
 > (Hier sind meine **Machine Learning**- und **CBIR**-Projekte:)
