@@ -9,7 +9,7 @@ Here is my **Machine Learning** and **Content-Based image retrieval** projects:
   - (image retrieval, Deep Learning, Siamese network)
  
 * 🖥️ [image recognation](https://github.com/Tianyihu212/image_recogination)
-
+- (Data analysis, RCNN, YOLOv3)
 > (Here is English learning by myself)
 * :gb: [English learning](https://github.com/Tianyihu212/English-channel-TianyiHu-vision)
   - (IELTS test, newpaper reading, small essay writing)
