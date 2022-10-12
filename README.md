@@ -7,6 +7,8 @@ Here is my **Machine Learning** and **Content-Based image retrieval** projects:
 
 * 🖥️ [Landmark Retrieval](https://github.com/Tianyihu212/Materarbeit)
   - (image retrieval, Deep Learning, Siamese network)
+ 
+* 🖥️ [image recognation](https://github.com/Tianyihu212/image_recogination)
 
 > (Here is English learning by myself)
 * :gb: [English learning](https://github.com/Tianyihu212/English-channel-TianyiHu-vision)
